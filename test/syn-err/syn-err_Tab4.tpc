@@ -1,0 +1,5 @@
+/* initialise une case 
+du tableau*/
+void init_case(int tab[]) {
+    tab[] = 2;
+}

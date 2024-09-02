@@ -1,0 +1,8 @@
+char return_prev_char(char a) {
+    return a - 1;
+}
+
+int main(void) {
+    putchar(return_prev_char('b'));
+    return 0;
+}

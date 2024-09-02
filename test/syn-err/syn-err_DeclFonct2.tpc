@@ -1,0 +1,5 @@
+int char egal_0(int nb) {
+    if (nb == 0)
+        return 1;
+    return 0;
+}

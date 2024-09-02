@@ -1,0 +1,9 @@
+char return_prev_char(char a) {
+    return a - 1;
+}
+
+int main(void) {
+    char c;
+    c = return_prev_char('b');
+    return 0;
+}

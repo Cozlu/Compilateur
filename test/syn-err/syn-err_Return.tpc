@@ -1,0 +1,3 @@
+int zero(void) {
+    retrun 0;
+}
