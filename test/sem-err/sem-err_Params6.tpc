@@ -1,0 +1,14 @@
+int lenTab(char tab[]) {
+    int i;
+    i = 0;
+    while (tab[i] != '\n')
+        i = i + 1;
+    return i;
+}
+
+ int main(void) {
+    char tab[2];
+    tab[0] = 'a';
+    tab[1] = 'b';
+    return lenTab(tab[0]);
+ }

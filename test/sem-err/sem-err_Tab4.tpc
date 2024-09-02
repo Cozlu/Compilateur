@@ -1,0 +1,6 @@
+int main(void) {
+    int duration[6];
+    if (duration[0] < 5 && !duration[0] || duration) 
+        return 1;
+    return 0;
+}

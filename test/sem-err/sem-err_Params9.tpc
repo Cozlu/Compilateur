@@ -1,0 +1,8 @@
+char nextC(char a, int b) {
+    return a;
+}
+
+int main(void) {
+    int tab[2];
+    return nextC(tab, 2);
+}

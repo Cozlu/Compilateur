@@ -1,0 +1,5 @@
+int putchar;
+
+int main(void) {
+    return putchar('a');
+}

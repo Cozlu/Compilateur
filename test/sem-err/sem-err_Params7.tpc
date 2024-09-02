@@ -1,0 +1,17 @@
+int sumTab(int tab[], int len) {
+    int i, sum;
+    i = 0;
+    sum = 0;
+    while (i < len) {
+        sum = sum + tab[i];
+        i = i + 1;
+    }
+    return sum;
+}
+
+ int main(void) {
+    char tab[2];
+    tab[0] = 'a';
+    tab[1] = 'b';
+    return sumTab(tab, 2);
+ }

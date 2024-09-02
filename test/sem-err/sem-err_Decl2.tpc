@@ -1,0 +1,11 @@
+int fct;
+
+char fct(char car) {
+    return car + 1;
+}
+
+int main(void) {
+    char c;
+    c = fct('a');
+    return 0;
+}

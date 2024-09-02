@@ -1,0 +1,11 @@
+void sum(int a, int b) {
+    int res;
+    res = a + b;
+    return;
+}
+
+int main(void) {
+    int res;
+    res = sum(5, 6);
+    return res;
+}

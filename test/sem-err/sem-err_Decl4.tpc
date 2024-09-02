@@ -1,0 +1,9 @@
+char char_suiv(char car) {
+    return car + i;
+}
+
+int main(void) {
+    char c;
+    c = char_suiv('a');
+    return 0;
+}

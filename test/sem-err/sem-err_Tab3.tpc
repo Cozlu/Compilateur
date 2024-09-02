@@ -1,0 +1,11 @@
+int tab[5];
+
+int sumTab(int tab[], int b) {
+    return tab + b;
+}
+
+int main(void) {
+    int b;
+    b = 5;
+    return sumTab(tab, b);
+}

@@ -1,0 +1,11 @@
+int tab[2];
+
+int mul(int a, int b) {
+    return a*b;
+}
+
+int mon_main(void) {
+    tab[0] = 1;
+    tab[1] = 2;
+    return mul(tab[0], tab[1]);
+}

@@ -1,0 +1,8 @@
+int sum(int a, int b) {
+    return a + b;
+}
+
+int main(void) {
+    int tab[2];
+    return sum(tab, 2);
+}
