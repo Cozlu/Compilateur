@@ -1,0 +1,9 @@
+int a, b, res;
+
+int main(void) {
+    a = 6;
+    b = 4;
+    res = a % b - 1; // res vaut 1
+    a = res * b; // a vaut 4
+    return 0;
+}

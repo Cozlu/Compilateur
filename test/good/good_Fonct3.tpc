@@ -1,0 +1,20 @@
+int nb;
+int tab[5];
+
+int sum(int a, int b) {
+    int t[2];
+    int c;
+    c = 10;
+    nb = 22;
+    t[1] = 10;
+    return nb + b + tab[0] + c + t[1];
+}
+
+int main (void) {
+    int b;
+    nb = 1;
+    b = 2;
+    tab[0] = 2;
+    b = sum(nb, b);
+    return b;
+}

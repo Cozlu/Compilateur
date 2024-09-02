@@ -1,0 +1,6 @@
+int n;
+
+int main(void) {
+    n = getint();
+    return n;
+}

@@ -1,0 +1,5 @@
+int duration[5];
+
+int main(void) {
+    duration['0'] = 1;
+}

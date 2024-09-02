@@ -1,0 +1,9 @@
+int retourne_0(void) {
+    return 0;
+}
+
+int main(void) {
+    int n;
+    n = retourne_0();
+    return 0;
+}

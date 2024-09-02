@@ -1,0 +1,20 @@
+char car;
+int a, b;
+int tab[4];
+
+int incr(int n) {
+    int nb, nb2;
+    char car;
+    n = n + car;
+    return n;
+}
+
+int main(void) {
+    int t;
+    incr(a);
+    a = a - (b + 2);
+    b = car;
+    tab[0] = t;
+    car = b;
+    return 0;
+}

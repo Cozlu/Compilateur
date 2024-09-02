@@ -1,0 +1,17 @@
+char car(void){
+    char c;
+    c = '\n';
+    c = '\t';
+    c = '%';
+    c = ' ';
+    c = '8';
+    c = '\'';
+    c = 'A';
+    return c;
+}
+
+int main(void) {
+    char c;
+    c = car();
+    return 0;
+}

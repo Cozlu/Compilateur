@@ -1,0 +1,13 @@
+int
+        main /* petit main */ (   void   )
+{
+int a, b;
+    a = 0;
+    b = a;
+        b = 1 + b;
+    return 'z' - (
+1 + 
+b // incrémente b
+        )
+    ;
+}

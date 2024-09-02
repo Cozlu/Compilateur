@@ -1,0 +1,6 @@
+int duration[1000];
+
+int main(void){
+    int now, span, days[7];
+    days[5]=duration[(now+span)%12];
+}

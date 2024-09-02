@@ -1,0 +1,11 @@
+int fct(int tab[]) {
+    tab[0] = tab[0] + 34;
+    return tab[0];
+}
+
+int main(void) {
+    int tab[5];
+    tab[0] = 6;
+    tab[0] = fct(tab);
+    return tab[0];
+}

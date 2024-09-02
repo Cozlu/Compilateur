@@ -1,0 +1,9 @@
+int incr_num(int n) {
+    return n + 1;
+}
+
+int main(void){
+    int num;
+    num = incr_num(num);
+    return 0;
+}

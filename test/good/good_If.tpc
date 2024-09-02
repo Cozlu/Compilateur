@@ -1,0 +1,21 @@
+int a;
+int b;
+int tab[10];
+
+int main(void) {
+    a = 3;
+    b = 1;
+    tab[0] = 1;
+    tab[1] = 2;
+    if (a % 2) {
+        b = 0;
+        if (tab[b] - 1) {
+            a = 10;
+        } else {
+            a = 0;
+        }
+    } else {
+        b = 10;
+    } // a = 0 b = 0
+    return 0;
+}

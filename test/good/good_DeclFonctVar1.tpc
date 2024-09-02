@@ -1,0 +1,5 @@
+int i, j, k;
+
+int fct(void) {}
+
+int main(void) {}

@@ -1,0 +1,9 @@
+int a;
+int tab[10];
+
+int main(void) {
+    tab[0] = 1;
+    tab[(tab[0]*10)/2] = tab[0]/2; // tab[5] = 0
+    a = tab[tab[0] + 2*2]; // a = tab[5] = 0
+    return 0;
+}

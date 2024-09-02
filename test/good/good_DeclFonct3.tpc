@@ -1,0 +1,6 @@
+void fct(int a, char string) {}
+
+int main(void) {
+    fct(0, 'a');
+    return 0;
+}

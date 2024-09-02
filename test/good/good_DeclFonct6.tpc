@@ -1,0 +1,9 @@
+char return_char(void) {
+    return 'a';
+}
+
+int main(void) {
+    char c;
+    c = return_char();
+    return 0;
+}

@@ -1,0 +1,10 @@
+int tab_test(int tab[]) {
+    int now, span;
+    return tab[(now+span)%12];
+}
+
+int main(void){
+    int tab[5];
+    tab_test(tab);
+    return 0;
+}

@@ -1,0 +1,10 @@
+int division(int a, int b) {
+    int res;
+    if (!b)
+        res = -1;
+    else
+        res = a / b;
+    return res;
+}
+
+int main(void) {return 0;}

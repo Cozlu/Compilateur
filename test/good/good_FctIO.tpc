@@ -1,0 +1,5 @@
+int main(void) {
+    putint(getint());
+    putchar(getchar());
+    return 0;
+}

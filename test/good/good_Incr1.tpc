@@ -1,0 +1,7 @@
+int incr(int a) {
+    a = ++a;
+}
+
+int main(void) {
+   return incr(1);
+}

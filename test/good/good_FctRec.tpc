@@ -1,0 +1,20 @@
+int nb;
+int tab[5];
+
+int test(int a, int b) {
+    return a + b + sum(1, 1);
+}
+
+int sum(int a, int b) {
+    if (b == 1) {
+        return 1;
+    }
+    return sum(1, 1) + test(a, b);
+}
+
+int main(void) {
+    int b;
+    nb = 1;
+    b = 2;
+    return sum(nb, b) + b;
+}

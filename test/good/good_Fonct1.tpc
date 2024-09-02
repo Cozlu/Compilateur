@@ -1,0 +1,23 @@
+char c;
+int a, b;
+int tab[4];
+
+int incr(int n) {
+    int nb;
+    char carac;
+    n = n + 1;
+    return n;
+}
+
+void test(char car) {
+    int a;
+    if (car == 'a')
+        car = 'b';
+}
+
+int main(void) {
+    incr(a);
+    test(c);
+    a = a - b;
+    return 0;
+}

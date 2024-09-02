@@ -1,0 +1,10 @@
+int a;
+int tab[2];
+
+int main(void) {
+    a = 0;
+    tab[0] = 1;
+    while (a < 5)
+        a = a + (tab[0] > 0);         
+    return 0;
+}

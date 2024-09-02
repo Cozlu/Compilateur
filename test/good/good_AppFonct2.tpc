@@ -1,0 +1,13 @@
+int incr_num(int n) {
+    return n + 1;
+}
+
+int nouv_num(int n) {
+    return n + n;
+}
+
+int main(void){
+    int num;
+    num = incr_num(nouv_num(num));
+    return 0;
+}
