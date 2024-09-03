@@ -18,7 +18,9 @@ Use make to compile the compiler, an executable will be created in the "bin" fol
 ### Launch the compiler
 
 Use ./bin/tpcc [OPTIONS] < [FILE] to launch the compiler.
+
 *the options can be found in the user manual in the "rep" folder*
+
 *the file is the programm in TPC you want to compile, please refer to the user manual in the "rep" folder or the test bench in the "test" folder for examples*
 
 ## How to write with TPC language ?
