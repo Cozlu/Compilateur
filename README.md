@@ -3,6 +3,7 @@
 University Project
 
 October 2023 - December 2023 (Lexer and Parser)
+
 January 2024 - May 2024 (Compiler)
 
 Compiler programmed in C to compile a language derived and simplified from C that we called "TPC".
@@ -36,6 +37,7 @@ You can find all of the info you need in the user manual in the folder "rep".
 Projet Universitaire
 
 Octobre 2023 - Décembre 2023 (Lexer et Parser)
+
 Janvier 2024 - Mai 2024 (Compilateur)
 
 Compilateur écrit en C pour compiler un langage dérivé et simplifié du C que nous avons appelé "TPC"
