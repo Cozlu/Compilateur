@@ -51,8 +51,10 @@ Utilisez la commande make pour compiler le compilateur, un exécutable va être 
 ### Lancer le compilateur
 
 Utilisez ./bin/tpcc [OPTIONS] < [FICHIER] pour lancer le compilateur.
-*les options peuvent être trouvées dans le manuel utilisateur du répertoire "rep".
-*le fichier est le programme en TPC que vous souhaitez compiler, s'il vous plaît référez vous au manuel du répertoire "rep" ou au banc de tests dans le répertoire "test" pour avoir des exemples.
+
+*les options peuvent être trouvées dans le manuel utilisateur du répertoire "rep".*
+
+*le fichier est le programme en TPC que vous souhaitez compiler, s'il vous plaît référez vous au manuel du répertoire "rep" ou au banc de tests dans le répertoire "test" pour avoir des exemples.*
 
 ## Comment écrire avec le langage TPC ?
 
