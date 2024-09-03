@@ -21,7 +21,7 @@ Use ./bin/tpcc [OPTIONS] < [FILE] to launch the compiler.
 *the options can be found in the user manual in the "rep" folder*
 *the file is the programm in TPC you want to compile, please refer to the user manual in the "rep" folder or the test bench in the "test" folder for examples*
 
-## How to write with the language TPC ?
+## How to write with TPC language ?
 
 You can find all of the info you need in the user manual in the folder "rep".
 
