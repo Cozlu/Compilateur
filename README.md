@@ -60,4 +60,4 @@ Utilisez ./bin/tpcc [OPTIONS] < [FICHIER] pour lancer le compilateur.
 
 ## Comment écrire avec le langage TPC ?
 
-Vous poiyvez trouver toutes les informations dont vous avez besoin dans le manuel utilisateur du répertoire "rep".
+Vous pouvez trouver toutes les informations dont vous avez besoin dans le manuel utilisateur du répertoire "rep".
